@@ -1,0 +1,6 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Models\bin\Release\Booking.Models.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Models\bin\Release\Booking.Models.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Models\bin\Release\Booking.Models.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Models\obj\Release\Booking.Models.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Models\obj\Release\Booking.Models.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Models\obj\Release\Booking.Models.pdb

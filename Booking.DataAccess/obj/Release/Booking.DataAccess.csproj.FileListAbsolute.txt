@@ -1,0 +1,12 @@
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Database.mdf
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Database_log.ldf
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Booking.DataAccess.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Booking.DataAccess.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Booking.DataAccess.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Booking.Models.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Booking.Models.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\bin\Release\Booking.Models.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\obj\Release\Booking.DataAccess.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\obj\Release\Booking.DataAccess.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\obj\Release\Booking.DataAccess.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.DataAccess\obj\Release\Booking.DataAccess.pdb

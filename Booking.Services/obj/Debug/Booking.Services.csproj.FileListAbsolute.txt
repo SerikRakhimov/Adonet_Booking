@@ -1,0 +1,49 @@
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Services.dll.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Services.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Services.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Newtonsoft.Json.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Twilio.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Newtonsoft.Json.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Twilio.xml
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.csproj.CopyComplete
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Database.mdf
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Database_log.ldf
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.DataAccess.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.DataAccess.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.DataAccess.dll.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Models.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Models.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Database.mdf
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Database_log.ldf
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Services.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Services.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Services.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.DataAccess.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Models.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Twilio.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.DataAccess.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.DataAccess.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Models.pdb
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Booking.Models.dll.config
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\bin\Debug\Twilio.xml
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.csprojResolveAssemblyReference.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.csproj.CoreCompileInputs.cache
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.dll
+D:\Мои документы\Серик\AcademyStep\VisualStudioProjects\ADONET\Booking\Booking\Booking\Booking.Services\obj\Debug\Booking.Services.pdb

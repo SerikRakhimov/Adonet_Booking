@@ -1,0 +1,7 @@
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Models\obj\Debug\Booking.Models.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Models\obj\Debug\Booking.Models.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Models\bin\Debug\Booking.Models.dll.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Models\bin\Debug\Booking.Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Models\bin\Debug\Booking.Models.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Models\obj\Debug\Booking.Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\Kursovaya_booking\Booking\Booking\Booking.Models\obj\Debug\Booking.Models.pdb
